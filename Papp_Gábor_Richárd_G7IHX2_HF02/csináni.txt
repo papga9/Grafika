@@ -1,0 +1,7 @@
+-vector to array minden drawnál
+-nem kell 2x letárolni a koordinátákat a vonalhoz, marad ugyanaz a szín :) 
+-kidebuggolni a CatmullClark-t és inverzét
+-játéklogika:
+	-2 kukac
+	- mozogni
+	- bomba robban (talajdeformációval)
